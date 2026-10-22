@@ -1,0 +1,20 @@
+# Dataset files
+*training-set.csv
+*testing-set.csv
+UNSW_NB15/
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Environments and secrets
+.venv/
+venv/
+.env
+
+# Temporary outputs and model artifacts
+*.joblib
+*.pkl
+*.pt
+*.pth
